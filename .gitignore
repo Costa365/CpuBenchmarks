@@ -1,0 +1,6 @@
+[Dd]ebug*/
+[Rr]elease*/
+packages/
+.vs/
+TestResults
+cache.html
